@@ -30,7 +30,7 @@ if __name__ == "__main__":
     else:
         from neoscoinrpc.config import read_default_config
         cfg = read_default_config(None)
-    port = int(cfg.get('rpcport', '18332' if cfg.get('testnet') else '8332'))
+    port = int(cfg.get('rpcport', '115004' if cfg.get('testnet') else '15004'))
     rpcuser = cfg.get('rpcuser', '')
 
     connections = []

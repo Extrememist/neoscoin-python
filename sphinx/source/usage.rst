@@ -47,7 +47,7 @@ There are two functions for this:
 
   ::
   
-    conn = neoscoinrpc.connect_to_remote('foo', 'bar', host='payments.yoyodyne.com', port=8332)
+    conn = neoscoinrpc.connect_to_remote('foo', 'bar', host='payments.yoyodyne.com', port=15004)
 
 
 How to use the API

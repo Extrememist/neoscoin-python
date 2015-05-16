@@ -17,7 +17,7 @@ documentation page:
 
     from jsonrpc import ServiceProxy
     
-    access = ServiceProxy("http://user:password@127.0.0.1:8332")
+    access = ServiceProxy("http://user:password@127.0.0.1:15004")
     access.getinfo()
     access.listreceivedbyaddress(6)
     access.sendtoaddress("11yEmxiMso2RsFVfBcCa616npBvGgxiBX", 10)
