@@ -21,7 +21,7 @@ Documentation
 Documentation can be found here, or in the source archive. It is built
 using Sphinx:
 
-http://extrememist.github.com/neoscoin-python/doc/
+http://github.com/neoscoin-python/doc/
 
 Installation instructions
 ===========================
@@ -32,19 +32,3 @@ neoscoin-python uses setuptools for the install script. There are no dependencie
 
   $ python setup.py build
   $ python setup.py install
-
-Pypi / Cheeseshop
-==================
-
-It is possible to install the package through Pypi (cheeseshop), see http://pypi.python.org/pypi?:action=display&name=neoscoin-python
-
-::
-
-  $ pip install neoscoin-python
-
-TODO
-======
-These things still have to be added:
-
-- SSL support (including certificate verification) for managing remote neoscoin daemons.
-
