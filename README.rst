@@ -21,7 +21,7 @@ Documentation
 Documentation can be found here, or in the source archive. It is built
 using Sphinx:
 
-http://laanwj.github.com/neoscoin-python/doc/
+http://extrememist.github.com/neoscoin-python/doc/
 
 Installation instructions
 ===========================
