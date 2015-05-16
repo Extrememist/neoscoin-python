@@ -1,0 +1,6 @@
+*.pyc
+*~
+sphinx/build
+build
+dist
+src/neoscoin_python.egg-info
